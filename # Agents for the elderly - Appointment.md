@@ -89,3 +89,4 @@ Szabo M et al. (2025). Identifying unmet needs of informal dementia caregivers i
 Wolff JL et al. (2022). Challenges and approaches to involving family caregivers in primary care. Patient Education and Counseling, 104(7). DOI: 10.1016/j.pec.2020.11.031
 CMS GUIDE Model Overview (2024). Guiding an Improved Dementia Experience. https://www.cms.gov/priorities/innovation/innovation-models/guide
 
+Updated April 2026 - version control added via GitHub
